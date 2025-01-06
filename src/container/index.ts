@@ -1,0 +1,10 @@
+export { default as About } from './About';
+export { default as Apartments } from './Apartments';
+export { default as Contact } from './Contact';
+export { default as ExpoModal } from './ExpoModal';
+export { default as Hero } from './Hero';
+export { default as Localization } from './Localization';
+export { default as Plants } from './Plants';
+export { default as TechnicalInformation } from './TechnicalInformation';
+export { default as TecnicalSpecs } from './TecnicalSpecs';
+export { default as Video } from './Video';

@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Dilemma-SansLight';
+  src: local("Dilemma-SansLight"), url("../Dilemma/Dilemma-SansLight.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Dilemma-SerifLight-2';
+  src: local("Dilemma-SerifLight-2"), url("../Dilemma/Dilemma-SerifLight-2.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

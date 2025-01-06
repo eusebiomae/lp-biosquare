@@ -1,0 +1,13 @@
+User-agent: *
+
+Allow: /
+Allow: /mapa-do-site
+
+Disallow: /empreendimentos/
+Disallow: /PDFs/
+Disallow: /novaficha/
+Disallow: /standvirtual/
+Disallow: /portal/pdf/
+Disallow: /tour-virtual/
+
+Sitemap: https://localhost:8080//sitemap.xml
